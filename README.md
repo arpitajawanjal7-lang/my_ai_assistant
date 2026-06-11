@@ -1,4 +1,4 @@
-# my_ai_assistant# MediCare Hospital Assistant Bot
+MediCare Hospital Assistant Bot
 
 ## Project Overview
 MediCare Hospital Assistant Bot is an AI-powered healthcare chatbot designed to assist patients with hospital-related information through an interactive conversational interface.
